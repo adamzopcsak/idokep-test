@@ -1,7 +1,6 @@
 # Testing the site called "Időkép"
 
-This project is about testing some of the main features of "Időkép", the most popular weather forecast website in Hungary. We used
-Page Objet Model for testing.
+This project is about testing some of the main features of "Időkép" (http://www.idokep.hu), the most popular weather forecast website in Hungary. We used Page Objet Model (POM) structure for testing.
 
 ## Teamsize
 
